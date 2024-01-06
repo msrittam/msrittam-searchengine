@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/msrittam-searchengine/static/css/main.50af54a5.css",
-    "main.js": "/msrittam-searchengine/static/js/main.c1bf71c0.js",
+    "main.js": "/msrittam-searchengine/static/js/main.7c987f68.js",
     "static/media/GoogleSans-Italic.ttf": "/msrittam-searchengine/static/media/GoogleSans-Italic.40bb50bd202405745006.ttf",
     "static/media/GoogleSans-MediumItalic.ttf": "/msrittam-searchengine/static/media/GoogleSans-MediumItalic.56d4f777a7997e5a10b3.ttf",
     "static/media/GoogleSans-BoldItalic.ttf": "/msrittam-searchengine/static/media/GoogleSans-BoldItalic.d282e9c31d0f894a7f06.ttf",
@@ -10,10 +10,10 @@
     "static/media/GoogleSans-Bold.ttf": "/msrittam-searchengine/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
     "index.html": "/msrittam-searchengine/index.html",
     "main.50af54a5.css.map": "/msrittam-searchengine/static/css/main.50af54a5.css.map",
-    "main.c1bf71c0.js.map": "/msrittam-searchengine/static/js/main.c1bf71c0.js.map"
+    "main.7c987f68.js.map": "/msrittam-searchengine/static/js/main.7c987f68.js.map"
   },
   "entrypoints": [
     "static/css/main.50af54a5.css",
-    "static/js/main.c1bf71c0.js"
+    "static/js/main.7c987f68.js"
   ]
 }
